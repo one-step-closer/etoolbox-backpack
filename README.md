@@ -64,3 +64,4 @@ The project uses `com.google.common.cache.Cache` bundled in `uber-jar-6.3.0` whi
 ### Licensing
 
 The project is licensed under [Apache License, Version 2.0](LICENSE). All runtime project dependencies are guaranteed to be compliant with the license. Dependencies such as Adobe's *uber-jar* are considered *provided* in the end-user environment and are not explicitly engaged. The end user is to comply with the regulations of the corresponding licenses. 
+ 
